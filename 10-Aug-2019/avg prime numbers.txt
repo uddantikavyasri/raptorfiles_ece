@@ -1,0 +1,6 @@
+13
+17
+19
+sum of prime numbers:49
+cp:3
+average of prime numbers:16.3333

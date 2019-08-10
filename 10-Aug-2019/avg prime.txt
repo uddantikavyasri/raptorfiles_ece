@@ -1,0 +1,12 @@
+2
+3
+5
+7
+11
+13
+17
+19
+23
+sum of prime numbers:100
+cp:9
+average of prime numbers:11.1111
